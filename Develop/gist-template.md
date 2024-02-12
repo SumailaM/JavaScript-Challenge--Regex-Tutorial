@@ -67,6 +67,10 @@ Parentheses () are used for grouping and capturing. They capture either the six-
 ### Conclusion
 The regex /^#?([a-f0-9]{6}|[a-f0-9]{3})$/ provides a flexible and efficient way to validate hexadecimal color values in web development projects.
 
+### Sources
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions
+https://www.w3schools.com/jsref/jsref_obj_regexp.asp
+
 
 ## Author
 
